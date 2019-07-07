@@ -1,0 +1,22 @@
+[
+	{
+		"name": "TemplateFlowCoordinator.swift", 
+		"path": "/FlowCoordinator"
+	},
+	{
+		"name": "TemplatePresenter.swift", 
+		"path": "/Presenter"
+	},
+	{
+		"name": "TemplateModel.swift", 
+		"path": "/Model"
+	},
+	{
+		"name": "TemplateViewController.swift", 
+		"path": "/View"
+	},
+	{
+		"name": "TemplateViewController.xib", 
+		"path": "/View"
+	}
+]

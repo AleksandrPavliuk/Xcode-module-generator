@@ -1,0 +1,36 @@
+{
+  "name": "xmg",
+  "version": "1.0.0",
+  "description": "Custom Swift based module generator",
+  "main": "lib/module-generator.js",
+  "scripts": {
+    "test": "JUNIT_REPORT_PATH=report.xml JUNIT_REPORT_STACK=1 ./node_modules/mocha/bin/mocha tests"
+  },
+  "keywords": [
+    "Templates",
+    "iOS",
+    "generator"
+  ],
+  "bin": {
+    "xmg": "./bin/xmg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AleksandrPavliuk/Xcode-module-generator.git"
+  },
+  "author": "Code Computerlove Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrPavliuk/Xcode-module-generator/issues"
+  },
+  "homepage": "https://github.com/AleksandrPavliuk/Xcode-module-generator",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "read-package-json": "^2.0.2"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3"
+  }
+}
