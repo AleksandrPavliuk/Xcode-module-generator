@@ -8,7 +8,7 @@ _Module_ here is any file set. Usally iOS developers need such modules for archi
 ## Xcode
 Project contains _TemplateEditor.xcodeproj_ - Xcode project with linked template files. There you can easily update/change template files, compiler will help you to catch errors.
 
-![Image of Xcode](https://i.imgur.com/mxryIH2.png)
+![Image of Xcode](https://i.imgur.com/mxryIH2l.png) ![Image of Sim](https://i.imgur.com/anU1mtel.png)
 
 ## Installation
 
