@@ -1,0 +1,16 @@
+## Build generated
+.DS_Store
+build/
+DerivedData
+
+## Other
+*.xccheckout
+*.xcuserstate
+Manifest.lock
+
+xcuserdata
+!xcuserdata/**/xcschemes/*
+
+
+## Pods
+TemplateEditor/Pods/*
